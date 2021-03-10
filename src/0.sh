@@ -4,4 +4,3 @@ rm -rf $HOME/.brew \
 	&& export PATH=$HOME/.brew/bin:$PATH \
 	&& brew update \
 	&& echo "export PATH=$HOME/.brew/bin:$PATH" >> ~/.zshrc
-source ~/.zshrc
