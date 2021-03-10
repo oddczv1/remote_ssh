@@ -1,4 +1,4 @@
-sh ~/remote_ssh/src/0.sh
+source ~/remote_ssh/src/0.sh
 sh ~/remote_ssh/src/1.sh
 sh ~/remote_ssh/src/2.sh
 sh ~/remote_ssh/src/3.sh
