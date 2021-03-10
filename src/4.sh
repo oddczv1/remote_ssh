@@ -1,1 +1,1 @@
-chmod 400 ~/remote/mykey
+chmod 400 ~/remote_ssh/mykey
