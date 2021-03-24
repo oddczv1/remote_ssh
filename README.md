@@ -1,8 +1,8 @@
-### 중요 파일들 기능
+# 중요 파일들 기능
 
 - install_server.sh : 모든 파일 설치 
--  설치시 source명령어로 실행!!! 
--  => source install_server.sh
+#### 설치시 source명령어로 실행!!! 
+#### source install_server.sh
 
 - connect.sh : 코드서버 실행 및 가상 ubuntu와 연결(reverse port forwarding)
 
